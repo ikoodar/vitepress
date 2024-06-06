@@ -1,0 +1,6 @@
+.vuepress/dist
+node_modules
+dist
+cache
+.temp
+blog.tar.gz

@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "unocss": "^0.57.7",
+    "vitepress": "^1.2.3"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  }
+}
